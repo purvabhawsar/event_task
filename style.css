@@ -1,0 +1,46 @@
+#header{
+	height: 80px;
+	width: 100%;
+	background-color: white;
+
+}
+#content
+{
+	background-color: white;
+	height: 400px;
+	width: 100%;
+}
+#footer
+{
+	height: 900px;
+	width: 100%;
+	
+}
+.heading{
+	flex-direction:column;
+}
+.search{
+	flex-direction:column;
+}
+.newcontent{
+    	height: 380px;
+    	width: 500px;
+    	
+    	margin: auto;
+    	margin-top: 50px;
+    }
+.signincontent{
+			height: 600px;
+			width: 700px;
+			
+			margin-top: 50px;
+			margin: 0 auto;
+		}
+.error_msg td{
+			height: 12px !important;
+			font-size: 15px !important;
+			color: red !important;
+		}
+		
+
+
